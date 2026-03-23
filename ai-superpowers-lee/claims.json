@@ -1,0 +1,29 @@
+[
+  {
+    "id": "8a61257d-5a8b-4119-b5fc-68c28ee3a7f3",
+    "canonical_text": "China will overtake the US in AI implementation due to data advantage and government support",
+    "claim_type": "prediction",
+    "domain": "ai",
+    "subject": "Kai-Fu Lee",
+    "verdict": "Partially validated \u2014 competitive but hasn't overtaken",
+    "book": "ai-superpowers-lee"
+  },
+  {
+    "id": "15f233ad-6471-4256-a2d4-f53a26458d54",
+    "canonical_text": "AI will automate 40% of jobs within 15 years",
+    "claim_type": "prediction",
+    "domain": "ai",
+    "subject": "Kai-Fu Lee",
+    "verdict": "8 years in, actual displacement is single-digit percent",
+    "book": "ai-superpowers-lee"
+  },
+  {
+    "id": "3c0a90c0-c7e7-4b87-a6df-576f67b73769",
+    "canonical_text": "US leads in research but China leads in implementation",
+    "claim_type": "assertion",
+    "domain": "ai",
+    "subject": "Kai-Fu Lee",
+    "verdict": "Was accurate in 2018, gap narrowing with DeepSeek",
+    "book": "ai-superpowers-lee"
+  }
+]
