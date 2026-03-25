@@ -1,0 +1,38 @@
+[
+  {
+    "id": "e5f6a7b8-5555-4000-8000-000000000001",
+    "canonical_text": "Nine companies (Google, Microsoft, Amazon, Facebook, IBM, Apple, Baidu, Alibaba, Tencent) control AI's future",
+    "claim_type": "assertion",
+    "domain": "ai",
+    "subject": "Amy Webb",
+    "verdict": "Missed OpenAI, Anthropic, Nvidia, DeepSeek — field expanded well beyond nine players",
+    "book": "big-nine-webb"
+  },
+  {
+    "id": "e5f6a7b8-5555-4000-8000-000000000002",
+    "canonical_text": "US-China AI competition is the defining geopolitical dynamic of the AI era",
+    "claim_type": "assertion",
+    "domain": "ai",
+    "subject": "Amy Webb",
+    "verdict": "Validated by chip export controls, DeepSeek competition, and TikTok tensions",
+    "book": "big-nine-webb"
+  },
+  {
+    "id": "e5f6a7b8-5555-4000-8000-000000000003",
+    "canonical_text": "IBM is one of the nine most important companies in AI",
+    "claim_type": "assertion",
+    "domain": "ai",
+    "subject": "Amy Webb",
+    "verdict": "Watson was shuttered; IBM is irrelevant in frontier AI as of 2026",
+    "book": "big-nine-webb"
+  },
+  {
+    "id": "e5f6a7b8-5555-4000-8000-000000000004",
+    "canonical_text": "Without governance intervention, AI development trends toward catastrophic outcomes",
+    "claim_type": "prediction",
+    "domain": "ai",
+    "subject": "Amy Webb",
+    "verdict": "EU AI Act passed but US governance remains fragmented; outcome unclear",
+    "book": "big-nine-webb"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "a1b2c3d4-1111-4000-8000-000000000001",
+    "canonical_text": "The standard model of AI — optimizing a fixed objective — is fundamentally dangerous at scale",
+    "claim_type": "assertion",
+    "domain": "ai",
+    "subject": "Stuart Russell",
+    "verdict": "Validated by reward hacking in RLHF and jailbreak exploits in frontier models",
+    "book": "human-compatible-russell"
+  },
+  {
+    "id": "a1b2c3d4-1111-4000-8000-000000000002",
+    "canonical_text": "Superintelligent AI poses existential risk and should be taken seriously by the field",
+    "claim_type": "assertion",
+    "domain": "ai",
+    "subject": "Stuart Russell",
+    "verdict": "Now consensus at major labs — OpenAI, Anthropic, DeepMind all have safety teams",
+    "book": "human-compatible-russell"
+  },
+  {
+    "id": "a1b2c3d4-1111-4000-8000-000000000003",
+    "canonical_text": "AI systems should be designed to be uncertain about human preferences and defer to humans",
+    "claim_type": "assertion",
+    "domain": "ai",
+    "subject": "Stuart Russell",
+    "verdict": "RLHF and constitutional AI embody this principle; Russell's framing was influential",
+    "book": "human-compatible-russell"
+  },
+  {
+    "id": "a1b2c3d4-1111-4000-8000-000000000004",
+    "canonical_text": "Alignment must be solved before superintelligence is built",
+    "claim_type": "assertion",
+    "domain": "ai",
+    "subject": "Stuart Russell",
+    "verdict": "Industry is building first, aligning second — warning unheeded but not proven wrong",
+    "book": "human-compatible-russell"
+  }
+]

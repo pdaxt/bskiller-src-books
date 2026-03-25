@@ -1,0 +1,29 @@
+[
+  {
+    "id": "b2c3d4e5-2222-4000-8000-000000000001",
+    "canonical_text": "The five tribes of machine learning will converge into a single master algorithm",
+    "claim_type": "prediction",
+    "domain": "ai",
+    "subject": "Pedro Domingos",
+    "verdict": "Transformers dominated via scale, not theoretical unification of paradigms",
+    "book": "master-algorithm-domingos"
+  },
+  {
+    "id": "b2c3d4e5-2222-4000-8000-000000000002",
+    "canonical_text": "Each ML paradigm (symbolist, connectionist, evolutionary, Bayesian, analogizer) captures something essential",
+    "claim_type": "assertion",
+    "domain": "ai",
+    "subject": "Pedro Domingos",
+    "verdict": "Valid taxonomy; different approaches still matter for specialized problems",
+    "book": "master-algorithm-domingos"
+  },
+  {
+    "id": "b2c3d4e5-2222-4000-8000-000000000003",
+    "canonical_text": "Whoever discovers the master algorithm will control the future of technology",
+    "claim_type": "prediction",
+    "domain": "ai",
+    "subject": "Pedro Domingos",
+    "verdict": "Scale, data, and compute mattered more than a single algorithmic breakthrough",
+    "book": "master-algorithm-domingos"
+  }
+]
