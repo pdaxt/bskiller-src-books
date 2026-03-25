@@ -1,0 +1,29 @@
+[
+  {
+    "id": "fefa09e8-b503-4513-a83b-5f0c78756e4f",
+    "canonical_text": "The development of AGI is the most important event in human history",
+    "claim_type": "opinion",
+    "domain": "ai",
+    "subject": "Max Tegmark",
+    "verdict": "Compelling rhetoric but unfalsifiable grand claim",
+    "book": "life-3-tegmark"
+  },
+  {
+    "id": "58d09642-a5d5-4b36-81ec-87b029dedc91",
+    "canonical_text": "AI safety research should be prioritized over capability research",
+    "claim_type": "opinion",
+    "domain": "ai",
+    "subject": "Max Tegmark",
+    "verdict": "Reasonable argument contradicted by market reality",
+    "book": "life-3-tegmark"
+  },
+  {
+    "id": "d0e519e6-ee12-49be-9034-8e28bab8ccba",
+    "canonical_text": "The future of AI depends on choices we make now",
+    "claim_type": "assertion",
+    "domain": "ai",
+    "subject": "Max Tegmark",
+    "verdict": "Philosophically sound, practically naive about incentive structures",
+    "book": "life-3-tegmark"
+  }
+]

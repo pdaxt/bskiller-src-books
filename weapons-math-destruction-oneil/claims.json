@@ -1,0 +1,38 @@
+[
+  {
+    "id": "d4e5f6a7-4444-4000-8000-000000000001",
+    "canonical_text": "Opaque algorithms systematically harm marginalized communities at scale",
+    "claim_type": "assertion",
+    "domain": "ai",
+    "subject": "Cathy O'Neil",
+    "verdict": "COMPAS recidivism bias, Amazon hiring tool, mortgage discrimination all documented post-publication",
+    "book": "weapons-math-destruction-oneil"
+  },
+  {
+    "id": "d4e5f6a7-4444-4000-8000-000000000002",
+    "canonical_text": "Algorithms encode existing biases in training data and scale them to millions",
+    "claim_type": "assertion",
+    "domain": "ai",
+    "subject": "Cathy O'Neil",
+    "verdict": "Now consensus in ML fairness research; demonstrated in LLMs as well",
+    "book": "weapons-math-destruction-oneil"
+  },
+  {
+    "id": "d4e5f6a7-4444-4000-8000-000000000003",
+    "canonical_text": "Algorithmic systems create destructive feedback loops that reinforce inequality",
+    "claim_type": "assertion",
+    "domain": "ai",
+    "subject": "Cathy O'Neil",
+    "verdict": "Predictive policing loops documented; some jurisdictions banned these systems",
+    "book": "weapons-math-destruction-oneil"
+  },
+  {
+    "id": "d4e5f6a7-4444-4000-8000-000000000004",
+    "canonical_text": "We need mandatory algorithmic auditing and government regulation of high-stakes algorithms",
+    "claim_type": "assertion",
+    "domain": "ai",
+    "subject": "Cathy O'Neil",
+    "verdict": "EU AI Act passed 2024; US regulation fragmented; auditing field exists but immature",
+    "book": "weapons-math-destruction-oneil"
+  }
+]
