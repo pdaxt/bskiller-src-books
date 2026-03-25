@@ -1,1 +1,13 @@
-{"source_name":"Books","repo":"bskiller-src-books","story_count":18,"last_updated":"2026-03-25T07:40:26Z","months":["2026-03"]}
+{
+  "version": "1.0",
+  "source_name": "Books",
+  "repo": "bskiller-src-books",
+  "story_count": 3,
+  "last_updated": "2026-03-25T08:57:22Z",
+  "months": [
+    {
+      "month": "2024-01",
+      "story_count": 3
+    }
+  ]
+}
