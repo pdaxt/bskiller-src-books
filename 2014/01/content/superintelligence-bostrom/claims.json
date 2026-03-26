@@ -1,0 +1,29 @@
+[
+  {
+    "id": "aeb129de-07d3-4823-bd5a-bb061dc49b31",
+    "canonical_text": "An intelligence explosion is likely once AI reaches a critical threshold",
+    "claim_type": "prediction",
+    "domain": "ai",
+    "subject": "Nick Bostrom",
+    "verdict": "Unfalsifiable prediction based on analogical reasoning, not evidence",
+    "book": "superintelligence-bostrom"
+  },
+  {
+    "id": "8dcf4090-4cc0-45a8-a176-fe1c27a27696",
+    "canonical_text": "The orthogonality thesis: intelligence and goals are independent",
+    "claim_type": "assertion",
+    "domain": "ai",
+    "subject": "Nick Bostrom",
+    "verdict": "Philosophically sound but untested empirically",
+    "book": "superintelligence-bostrom"
+  },
+  {
+    "id": "19e15126-f0df-4cd9-85f0-2fbfe45fcfa2",
+    "canonical_text": "Instrumental convergence means any sufficiently intelligent AI will pursue self-preservation",
+    "claim_type": "assertion",
+    "domain": "ai",
+    "subject": "Nick Bostrom",
+    "verdict": "Logically plausible but no evidence in current AI systems",
+    "book": "superintelligence-bostrom"
+  }
+]
