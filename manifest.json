@@ -2,12 +2,17 @@
   "version": "1.0",
   "source_name": "Books",
   "repo": "bskiller-src-books",
-  "story_count": 3,
-  "last_updated": "2026-03-25T08:57:22Z",
-  "months": [
-    {
-      "month": "2024-01",
-      "story_count": 3
-    }
+  "layout": "root-level",
+  "story_count": 8,
+  "last_updated": "2026-03-26T10:00:00Z",
+  "books": [
+    "ai-snake-oil",
+    "ai-superpowers-lee",
+    "alignment-problem-christian",
+    "atlas-of-ai-crawford",
+    "genius-makers",
+    "life-3-tegmark",
+    "superintelligence-bostrom",
+    "the-coming-wave"
   ]
 }
