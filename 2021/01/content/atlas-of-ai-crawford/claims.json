@@ -1,0 +1,29 @@
+[
+  {
+    "id": "990dbd17-3ef9-4b2f-b8ee-578945ec0b06",
+    "canonical_text": "AI is built on exploited labor, extracted resources, and biased data",
+    "claim_type": "assertion",
+    "domain": "ai",
+    "subject": "Kate Crawford",
+    "verdict": "Well-documented with specific examples and site visits",
+    "book": "atlas-of-ai-crawford"
+  },
+  {
+    "id": "dfb0a89f-6e28-47e1-b390-f6892eb521fd",
+    "canonical_text": "The environmental cost of AI training is systematically understated",
+    "claim_type": "assertion",
+    "domain": "ai",
+    "subject": "Kate Crawford",
+    "verdict": "Confirmed by subsequent energy studies and emissions data",
+    "book": "atlas-of-ai-crawford"
+  },
+  {
+    "id": "039c42c5-1e2d-411e-ac91-e13ce4c54fc2",
+    "canonical_text": "Classification systems reproduce and amplify social hierarchies",
+    "claim_type": "assertion",
+    "domain": "ai",
+    "subject": "Kate Crawford",
+    "verdict": "Strong evidence for bias, 'reproduce hierarchies' slightly overstated",
+    "book": "atlas-of-ai-crawford"
+  }
+]
