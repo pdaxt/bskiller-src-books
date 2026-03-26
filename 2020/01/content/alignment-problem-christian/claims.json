@@ -1,0 +1,29 @@
+[
+  {
+    "id": "a8afbd99-a945-4e2e-b76f-8a62d6030814",
+    "canonical_text": "Current AI systems are fundamentally misaligned with human values in hard-to-detect ways",
+    "claim_type": "assertion",
+    "domain": "ai",
+    "subject": "Brian Christian",
+    "verdict": "Confirmed by jailbreaks, reward hacking, and specification gaming",
+    "book": "alignment-problem-christian"
+  },
+  {
+    "id": "8627d269-69ec-4895-9355-f2e317b77604",
+    "canonical_text": "RLHF and reward modeling are insufficient for alignment at scale",
+    "claim_type": "prediction",
+    "domain": "ai",
+    "subject": "Brian Christian",
+    "verdict": "Partially confirmed \u2014 every lab supplements RLHF with additional techniques",
+    "book": "alignment-problem-christian"
+  },
+  {
+    "id": "bfa43121-45b3-451a-b39d-91f24f282a5e",
+    "canonical_text": "The alignment problem gets harder as AI becomes more capable",
+    "claim_type": "prediction",
+    "domain": "ai",
+    "subject": "Brian Christian",
+    "verdict": "Some evidence \u2014 novel misalignment patterns in frontier models",
+    "book": "alignment-problem-christian"
+  }
+]
