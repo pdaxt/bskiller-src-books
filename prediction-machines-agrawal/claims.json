@@ -1,0 +1,29 @@
+[
+  {
+    "id": "c3d4e5f6-3333-4000-8000-000000000001",
+    "canonical_text": "AI is fundamentally a prediction technology that drops the cost of prediction",
+    "claim_type": "assertion",
+    "domain": "ai",
+    "subject": "Ajay Agrawal",
+    "verdict": "LLMs are literally next-token prediction; framework maps perfectly to current AI landscape",
+    "book": "prediction-machines-agrawal"
+  },
+  {
+    "id": "c3d4e5f6-3333-4000-8000-000000000002",
+    "canonical_text": "Cheap prediction increases the value of human judgment as a complement",
+    "claim_type": "assertion",
+    "domain": "ai",
+    "subject": "Ajay Agrawal",
+    "verdict": "Human-in-the-loop oversight is now a recognized competitive advantage",
+    "book": "prediction-machines-agrawal"
+  },
+  {
+    "id": "c3d4e5f6-3333-4000-8000-000000000003",
+    "canonical_text": "AI will redesign jobs around prediction tasks rather than eliminating jobs wholesale",
+    "claim_type": "prediction",
+    "domain": "ai",
+    "subject": "Ajay Agrawal",
+    "verdict": "Jobs are being restructured around AI copilots, not replaced 1:1",
+    "book": "prediction-machines-agrawal"
+  }
+]

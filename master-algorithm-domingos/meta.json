@@ -1,0 +1,8 @@
+{
+  "title": "The Master Algorithm by Pedro Domingos",
+  "author": "Pedro Domingos",
+  "year": 2015,
+  "topics": "machine learning paradigms, universal learner, AI tribes",
+  "overall_bs_score": 5.8,
+  "verdict": "Great ML explainer but the 'master algorithm' thesis didn't pan out — transformers won by brute scaling, not unification"
+}
